@@ -1,5 +1,12 @@
 # Teoria dei Circuiti — sito di studio (non ufficiale)
 
+> **Il sito si è spostato.** Teoria dei Circuiti ora fa parte di **Study Hub**, il sito di studio unico di Ingegneria Elettronica:
+> <https://valeriocolapinto1-cpu.github.io/study-hub/it/anno-2/teoria-circuiti/>
+>
+> Le pagine pubblicate da questo repository rimandano alle pagine corrispondenti del nuovo sito (il service worker,
+> se c'era, si disattiva da solo). Il codice resta qui come archivio; la storia è conservata anche in
+> [`study-hub/legacy/`](https://github.com/valeriocolapinto1-cpu/study-hub/tree/main/legacy).
+
 Sito statico **in italiano** per preparare l'esame di *Teoria dei Circuiti* (Ingegneria Elettronica L-8, 2º anno). Teoria completa con dimostrazioni, formulario, esercizi e prove d'esame **generati con numeri originali e verificati da un simulatore indipendente**, quiz con ripasso a intervalli, domande di teoria con correzione automatica, progresso, piano di studio.
 
 > **Strumento di studio non ufficiale, non affiliato all'università né ai docenti.**
